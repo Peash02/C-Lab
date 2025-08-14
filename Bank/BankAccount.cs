@@ -96,8 +96,9 @@ namespace Bank
             else
             {
                 balance += Interest;
-                Console.WriteLine("Added {Interest} to Balance.");
+                Console.WriteLine($"Added {Interest} to Balance.");
             }
         }
     }
 }
+
