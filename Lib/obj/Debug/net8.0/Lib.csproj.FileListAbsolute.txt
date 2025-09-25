@@ -1,0 +1,14 @@
+C:\Users\Student\Documents\Peash\CSharpLab\Lib\bin\Debug\net8.0\Lib.exe
+C:\Users\Student\Documents\Peash\CSharpLab\Lib\bin\Debug\net8.0\Lib.deps.json
+C:\Users\Student\Documents\Peash\CSharpLab\Lib\bin\Debug\net8.0\Lib.runtimeconfig.json
+C:\Users\Student\Documents\Peash\CSharpLab\Lib\bin\Debug\net8.0\Lib.dll
+C:\Users\Student\Documents\Peash\CSharpLab\Lib\bin\Debug\net8.0\Lib.pdb
+C:\Users\Student\Documents\Peash\CSharpLab\Lib\obj\Debug\net8.0\Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\Peash\CSharpLab\Lib\obj\Debug\net8.0\Lib.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Peash\CSharpLab\Lib\obj\Debug\net8.0\Lib.AssemblyInfo.cs
+C:\Users\Student\Documents\Peash\CSharpLab\Lib\obj\Debug\net8.0\Lib.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Peash\CSharpLab\Lib\obj\Debug\net8.0\Lib.dll
+C:\Users\Student\Documents\Peash\CSharpLab\Lib\obj\Debug\net8.0\refint\Lib.dll
+C:\Users\Student\Documents\Peash\CSharpLab\Lib\obj\Debug\net8.0\Lib.pdb
+C:\Users\Student\Documents\Peash\CSharpLab\Lib\obj\Debug\net8.0\Lib.genruntimeconfig.cache
+C:\Users\Student\Documents\Peash\CSharpLab\Lib\obj\Debug\net8.0\ref\Lib.dll
